@@ -1,0 +1,19 @@
+div{
+    text-align: center;
+    padding: 2rem;
+}
+h1{
+    font-family: Impact, sans-serif;
+    font-size: 4rem;
+}
+p{
+    font-size: 1.5rem;
+}
+button{
+    padding: 1rem 3.5rem;
+    background: blue;
+    color: white;
+}
+button:hover{
+    background-color: green;
+}
