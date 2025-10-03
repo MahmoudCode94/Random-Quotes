@@ -1,2 +1,0 @@
-# Random-Quotes
-# Random-Quotes
